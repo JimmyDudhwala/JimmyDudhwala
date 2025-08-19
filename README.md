@@ -125,6 +125,6 @@
 - 📧 **Email**: [jimmyfreelance25@gmail.com](mailto:jimmyfreelance25@gmail.com)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/jimmydudhwala)
 - 🐦 **Twitter**: [@JimmyDudhwala](https://twitter.com/JimmyDudhwala)
-- 🌐 **Portfolio**: [jimmydudhwala.dev](https://jimmydudhwala.dev)
+- 🌐 **Portfolio**: [jimmydudhwala.dev](https://jimmy-vert.vercel.app)
 
 *Open to full-time opportunities, freelance projects, and exciting collaborations!* 🚀
