@@ -1,63 +1,112 @@
 
 <h1 align="center">Hi, I'm JIMMY DUDHWALA 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JimmyDudhwala.JimmyDudhwala&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from China </h3>
+<h3 align="center">Full Stack Software Engineer & Mobile App Developer</h3>
 
-❤️ I prefer React on frontend 
-🤔 I'm currently on Backend
+🚀 **1+ Year Professional Experience** | 🎓 **BTech in Information Technology**  
+💻 **Full Stack Developer** | 📱 **React Native App Developer** | ☁️ **DevOps Engineer**
 
-✨ I study: pursing Btech in Information technology 
-
-
-
-## About me:
-<!-- - 😄 Fun fact: I'm a Java develope before, worked in IBM -->
-- 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](jimmyfreelance25@gmail.com)
-- 💬 Ask me about `Frontend` 
+## About Me:
+- 🔭 **Currently**: Building scalable web applications and mobile apps
+- 🎯 **Passion**: Creating efficient, user-centric software solutions
+- 🌟 **Expertise**: MERN Stack, React Native, DevOps, Database Design
+- 📫 **Contact**: [jimmyfreelance25@gmail.com](mailto:jimmyfreelance25@gmail.com)
+- 💼 **Open to**: Full-time opportunities, freelance projects, and innovative collaborations
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-## My stack:
-- 1+ years of experience in React, javascript, tailwind , async, await
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
+## Professional Experience:
+### **Software Engineer** (1+ Years)
+- **Mobile Development**: React Native CLI applications with native modules
+- **Full Stack Development**: MERN stack applications with RESTful APIs
+- **Database Management**: MongoDB, PostgreSQL, Redis optimization
+- **DevOps**: CI/CD pipelines, Docker containerization, cloud deployment
+- **API Development**: RESTful APIs, GraphQL, microservices architecture
 
-## Languages and Tools:
+## Technical Skills:
+
+### **Programming Languages**
 <div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
-  <img width="12" />
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust" /></code>
 </div>
 
+### **Frontend Technologies**
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux" /></code>
+</div>
 
-## My Journey
+### **Backend & Database**
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" /></code>
+</div>
+
+### **Mobile Development**
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="ios" /></code>
+</div>
+
+### **DevOps & Tools**
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins" /></code>
+</div>
+
+## Education & Certifications:
+- 🎓 **BTech in Information Technology** (4 Years)
+- 📚 **Core Subjects**: Data Structures, Algorithms, Database Management, Software Engineering
+- 🏆 **Additional**: Cloud Computing, Machine Learning, Web Technologies
+
+## Key Projects & Achievements:
+- **Mobile Apps**: Developed React Native applications with native integrations
+- **Web Applications**: Built scalable MERN stack applications
+- **Database Design**: Optimized database schemas for high-performance applications
+- **DevOps**: Implemented CI/CD pipelines and containerized deployments
+- **API Development**: Created RESTful APIs and GraphQL endpoints
+
+## My GitHub Stats:
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=JimmyDudhwala&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JimmyDudhwala&layout=compact&theme=onedark" />
@@ -65,11 +114,17 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=JimmyDudhwala&theme=onedark" />
 </div>
 
-## My Rewards
-<!--[![Trophies](https://github-profile-trophy.vercel.app/?username=JimmyDudhwala&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-## Feeding...
+## Coding Activity:
 ![Snake animation](https://raw.githubusercontent.com/JimmyDudhwala/JimmyDudhwala/output/github-contribution-grid-snake-dark.svg)
 
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+## Let's Connect! 🤝
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+**I'm passionate about creating innovative software solutions and always excited to collaborate on interesting projects. Whether you want to discuss technology, explore new opportunities, or just say hello - I'd love to connect!**
+
+- 📧 **Email**: [jimmyfreelance25@gmail.com](mailto:jimmyfreelance25@gmail.com)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/jimmydudhwala)
+- 🐦 **Twitter**: [@JimmyDudhwala](https://twitter.com/JimmyDudhwala)
+- 🌐 **Portfolio**: [jimmydudhwala.dev](https://jimmydudhwala.dev)
+
+*Open to full-time opportunities, freelance projects, and exciting collaborations!* 🚀
